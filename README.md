@@ -61,8 +61,8 @@ Currently, I'm focused on:
 ### 📈 Stats That Matter
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singhkumaraman&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhkumaraman&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amankrsingh1002&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amankrsingh1002&theme=tokyonight" />
 </p>
 
 ---
